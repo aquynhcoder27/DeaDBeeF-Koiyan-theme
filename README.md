@@ -1,6 +1,8 @@
-# DeaDBeeF-config
+# Koiyan Theme for DeaDBeeF
 
-A shareable DeaDBeeF GTK UI layout and visualizer configuration for Linux.
+A shareable, function-focused DeaDBeeF GTK UI layout configuration for Linux.
+
+Koiyan is the author's nickname. This project emphasizes passionate music management by arranging DeaDBeeF and plugin-supported functionality on one screen, rather than decorative GTK theme customization.
 
 ![DeaDBeeF theme preview](preview.png)
 
@@ -10,7 +12,7 @@ This theme fragment was curated from the DeaDBeeF configuration generated on a L
 
 The fragment includes the six-tab layout, playlist and search columns, title-bar formatting, and waveform, spectrogram, and VU meter settings. It does not contain playlists, music paths, playback history, credentials, or machine-specific window geometry. DeaDBeeF's ordinary GTK controls continue to use the host desktop's GTK theme.
 
-This is an independent community configuration, not an official DeaDBeeF theme.
+This is an independent community layout configuration, not an official DeaDBeeF theme, plugin, or fork.
 
 ## Requirements
 
@@ -46,4 +48,4 @@ The fragment describes DeaDBeeF's layout and visualizer colors; it does not inst
 
 ## Attribution and license
 
-Attribute the configuration to the **DeaDBeeF-config project**, link to this repository, and identify changes when redistributing it. The original configuration and documentation in this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This license does not cover DeaDBeeF or the separately downloaded plugins.
+Attribute the configuration to the **Koiyan Theme for DeaDBeeF project**, link to this repository, and identify changes when redistributing it. The original configuration and documentation in this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This license does not cover DeaDBeeF or the separately downloaded plugins.
